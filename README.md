@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cheebinhoh
-- 👀 I love programming, Unix, GNU/Linux, C, macOS, iOS, compiler, Unix, GNU/Linux system programming, internetworking, etc.
+- 👀 I love programming, Unix, GNU/Linux, C, Swift, shell scripting, macOS, iOS, compiler, Unix, GNU/Linux system programming, internetworking, etc.
 - 🌱 I’m currently learning RISC-V
 - 💞️ I’m looking to collaborate on a lot of thing
 - 📫 How to reach me https://www.linkedin.com/in/cheebinhoh/
